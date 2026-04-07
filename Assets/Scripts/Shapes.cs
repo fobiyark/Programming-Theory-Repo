@@ -37,7 +37,7 @@ public abstract class Shapes : MonoBehaviour
     private void OnMouseDown()
     {
         DisplayText();// ABSTRACTION
-        DisplayColor();
+        DisplayColor();// ABSTRACTION
     }
 
     //POLYMORPHISM
